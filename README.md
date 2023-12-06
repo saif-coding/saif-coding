@@ -1,9 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saif Ullah
+
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saif Ullah
 ==================================================================================================================================
 
+
+<h3 align="middle">
 Front-end Developer using HTML CSS JS
--------------------------------------
-  
+  </h3>
+
+<p align="middle">
+  <img src="https://github.com/Saifullahcode/saifullahcode/blob/3429be9798d5448cfc7b3ee7a1d82d4a7f513cfe/code.avif" alt="Alt Text" width="300" height="300">
+</p>
 
 
 * 🌍  I'm based in Peshawar, Pakistan
