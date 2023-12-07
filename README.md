@@ -12,7 +12,7 @@ Front-end Developer using HTML CSS JS
 
 * 🌍  I'm based in Peshawar, Pakistan
 * 🖥️  See my portfolio at [Mywebsite](http://https://saifullahcode.github.io/Personal-Portfolio/)
-* ✉️  You can contact me at [whatsapp +923439753915](mailto:WhatsApp +923439753915)
+* ✉️  You can contact me at WhatsApp +923439753915
 * 🧠  I'm learning Front-End Development
 * 🤝  I'm open to collaborating on any project
 * ⚡  Do follow or connect me I'm open to suggestions and collaborations.
