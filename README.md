@@ -1,5 +1,5 @@
 
- ### <h1> Hi, I'm Saif Ullah 👋  [![](https://visitcount.itsvg.in/api?id=saif-coding&icon=0&color=0)](https://visitcount.itsvg.in)  </h1>
+ ### <h1> Hi, I'm Saif Ullah 👋 </h1>    [![](https://visitcount.itsvg.in/api?id=saif-coding&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 <h3 align="start">
 Front-end Developer using HTML CSS JS
@@ -7,11 +7,12 @@ Front-end Developer using HTML CSS JS
 
 
 
-* 🌍  I'm based in Peshawar, Pakistan
+* 🧠  I'm learning Web Development
+* 🚀  I'm currently working on Front-End Development
+* 🤝  I'm open to collaborating on any Front-End Projects
 * 🖥️  See my portfolio at [Mywebsite](http://https://saifullahcode.github.io/Personal-Portfolio/)
+* 🌍  I'm based in Peshawar, Pakistan
 * ✉️  You can contact me at WhatsApp +923439753915
-* 🧠  I'm learning Front-End Development
-* 🤝  I'm open to collaborating on any project
 * ⚡  Do follow or connect me I'm open to suggestions and collaborations.
 
 ## About Me
@@ -30,13 +31,13 @@ From crafting pixel-perfect layouts to optimizing website speed and accessibilit
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saif-coding&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saif-coding&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-coding&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+  ![](https://github-readme-stats.vercel.app/api?username=saif-coding&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=saif-coding&theme=buefy&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-coding&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saif-coding&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
