@@ -1,5 +1,5 @@
 
- ### <h1> Hi, I'm Saif Ullah 👋  [![](https://visitcount.itsvg.in/api?id=saifullahcode&icon=0&color=0)](https://visitcount.itsvg.in)  </h1>
+ ### <h1> Hi, I'm Saif Ullah 👋  [![](https://visitcount.itsvg.in/api?id=saif-coding&icon=0&color=0)](https://visitcount.itsvg.in)  </h1>
 
 <h3 align="start">
 Front-end Developer using HTML CSS JS
@@ -38,6 +38,5 @@ From crafting pixel-perfect layouts to optimizing website speed and accessibilit
 ![](https://github-contributor-stats.vercel.app/api?username=saif-coding&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saif-coding&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
