@@ -1,26 +1,21 @@
 
  ### <h1> Hi, I'm Saif Ullah 👋 [![](https://visitcount.itsvg.in/api?id=saif-coding&icon=0&color=0)](https://visitcount.itsvg.in) </h1>    
 <h3 align="start">
-Front-end Developer using React Js
+Front-end Developer using React.js
   </h3>
 
 
 
-* 🧠  I'm learning Web Development
+* 🧠  I'm currently learning Backend Development
 * 🚀  I'm currently working on Front-End Development
-* 🤝  I'm open to collaborating on any Front-End Projects
+* 🤝  I'm open to collaborating on any Projects
 * 🖥️  See my portfolio at [saifcoding](https://saifullah-react.vercel.app/)
 * 🌍  I'm based in Peshawar, Pakistan
-* ✉️  You can WhatsApp me at +923439753915
-* ⚡  Do follow or connect me I'm open to suggestions and collaborations.
+* ✉️  You can WhatsApp me at 03439753915
+* ⚡ Please follow or connect with me; I'm open to suggestions and collaborations.
 
 ## About Me
-As a front-end developer, I specialize in crafting engaging and user-friendly web experiences through my HTML, CSS, and JavaScript expertise. With a keen eye for design and functionality, I collaborate closely with designers and back-end developers to bring digital concepts to life.
-
-My responsibilities encompass translating design mockups into clean, responsive, and interactive web pages, ensuring seamless navigation and optimal performance across various devices and browsers. I am adept at implementing modern front-end frameworks and libraries like React.js or Vue.js to create dynamic and efficient user interfaces.
-
-From crafting pixel-perfect layouts to optimizing website speed and accessibility, I am dedicated to delivering high-quality front-end solutions that elevate the online presence of businesses and enhance user satisfaction.
-
+I'm a passionate Frontend Developer with a strong focus on building responsive and user-friendly web applications. Alongside my frontend skills, I also have hands-on experience with backend technologies such as Node.js, Express.js, MongoDB, and more, enabling me to work confidently across the full stack and build end-to-end web solutions.
 
 
 
